@@ -1,114 +1,128 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
+    "title": "Isabelly Cassimiro | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Isabelly Cassimiro, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Isabelly Cassimiro",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
+    "name": "Isabelly Cassimiro",
+    "headline": "Desenvolvimento Web, Design e Comunicação",
     "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
-    "cvUrl": "#"
+    "photoAlt": "Foto profissional de Isabelly",
+    "summary": "Tenho experiência na área de Desenvolvimento Web com Java, o que me permitiu desenvolver uma visão sobre criação de soluções digitais e trabalho em equipe, unir tecnologia, design e comunicação para criar experiências digitais intuitivas e agora estou desenvolvendo meu mapa de carreira para direcionar meu crescimento profissional para áreas que conectem estratégia, experiência do usuário e comunicação.",
+    "cvUrl": "https://canva.link/ia8zo2ull2axw2e"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "linkedin.com/in/isabellycassimiro",
+      "url": "https://www.linkedin.com/in/isabelly-cassimiro/"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
-    },
-    {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "github.com/isabellycassimiro",
+      "url": "https://github.com/belly23cassimiro-arch"
     }
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "UX/UI Designer Júnior",
+      "description": "Criar interfaces digitais e entender como tornar produtos intuitivos e agradáveis para os usuários. Participar de decisões visuais e testes.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Comunicação clara para apresentar ideias.",
+        "Criatividade para propor soluções.",
+        "Organização para acompanhar entregas.",
+        "Escuta ativa para entender usuários."
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
-        "Git e GitHub",
-        "Acessibilidade"
+        "Figma",
+        "Framework",
+        "Prototipagem",
+        "Design System",
+        "Pesquisa com Usuários"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "UX/UI Designer Pleno",
+      "description": "Conduzir decisões de experiência, apresentar propostas para equipe e validar soluções com usuários.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Apresentação de projetos.",
+        "Argumentação para defender decisões.",
+        "Trabalho em equipe.",
+        "Capacidade analítica."
       ],
       "roadmap": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "UX Research",
+        "Testes de usabilidade",
+        "Design Thinking",
+        "Acessibilidade",
+        "Arquitetura da informação"
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Product Designer",
+      "description": "Atuar unindo experiência do usuário e objetivos do negócio. Participar de reuniões estratégicas e decisões do produto.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Comunicação com áreas diferentes.",
+        "Liderança em apresentações.",
+        "Negociação.",
+        "Visão estratégica."
       ],
       "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "Jornada do usuário",
+        "Storytelling",
+        "Prototipação avançada",
+        "Produto digital"
+      ]
+    },
+    {
+      "title": "Product Manager (PM)",
+      "description": "Definir direção do produto, conduzir reuniões, apresentar propostas e tomar decisões estratégicas.",
+      "softSkills": [
+        "Liderança de equipe.",
+        "Tomada de decisão",
+        "Comunicação.",
+        "Gestão de conflitos."
+      ],
+      "roadmap": [
+        "Gestão de produto",
+        "Roadmap",
+        "Análise de métricas",
+        "Metodologias ágeis"
       ]
     }
   ],
   "skillGroups": [
     {
-      "title": "Frontend",
+      "title": "Design",
       "skills": [
         {
-          "name": "HTML, CSS e JavaScript",
-          "level": 85
+          "name": "prototipagem e Ui design",
+          "level": 65
         },
         {
-          "name": "React",
-          "level": 70
+          "name": "Figma",
+          "level": 75
         }
       ]
     },
     {
-      "title": "Backend e dados",
+      "title": "Comunicação",
       "skills": [
         {
-          "name": "Node.js e APIs",
-          "level": 65
+          "name": "Apresentação, Storytelling",
+          "level": 80
         },
         {
-          "name": "SQL",
-          "level": 60
+          "name": "Liderança",
+          "level": 55
         }
       ]
     }
   ],
   "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
+    "Pesquisa",
+    "Lógica",
+    "Documentacao"
   ],
   "languages": [
     {
@@ -117,11 +131,7 @@
     },
     {
       "name": "Ingles",
-      "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
+        "level": "Tecnico"
     }
   ]
 }
